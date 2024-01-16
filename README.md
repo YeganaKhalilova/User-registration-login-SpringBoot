@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 - Java 8 or higher installed
 - MongoDB installed and running
 - Maven installed (for building the project)
-- Your MongoDB connection details in `application.yml`
+- MongoDB connection details in `application.yml`
 
 ## Setup
 
